@@ -3,9 +3,9 @@ Type "help" for a list of commands. This is my first project, and I am only play
 
 
 Installation:
-git clone https://github.com/png760/C-address-book.git
-gcc - o addressbook addressbook.c
-chmod +x addressbook
-./addressbook
+`git clone https://github.com/png760/C-address-book.git`
+`gcc - o addressbook addressbook.c`
+`chmod +x addressbook`
+`./addressbook`
 
 It should create the contacts file for you. Adjust the script to your liking.
